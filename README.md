@@ -1,2 +1,2 @@
 # Devops-example
-Github example
+calculator example
