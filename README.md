@@ -1,2 +1,2 @@
-# Devops-example
-calculator example
+# Calculator-project
+calculator.sh
